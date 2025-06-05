@@ -19,7 +19,6 @@ Python ile FastApi frameworku ile SSL sertifikası kullanarak giriş seviyede bi
 ## :rocket: Technologies ##
 
 - [Python](https://www.python.org/)
-- [uvicorn](https://www.uvicorn.org)
 - [FastApi](https://github.com/fastapi/fastapi)
 - [uv](https://docs.astral.sh/uv/)
 
