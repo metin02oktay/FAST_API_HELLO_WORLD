@@ -18,16 +18,15 @@ Python ile FastApi frameworku ile SSL sertifikası kullanarak giriş seviyede bi
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
-
 - [Python](https://www.python.org/)
+- [uvicorn](https://www.uvicorn.org)
 - [FastaPi](https://github.com/fastapi/fastapi)
 - [uv](https://docs.astral.sh/uv/)
 
 
 ## :white_check_mark: Requirements ##
 
-uv ile kolayca skurulumları yapabilirsiniz.
+uv ile kolayca kurulumları yapabilirsiniz.
 
 ## :checkered_flag: Starting ##
 
