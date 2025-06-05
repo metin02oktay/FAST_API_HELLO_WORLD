@@ -30,15 +30,15 @@ uv sync komutu ile kolayca kurulumları yapabilirsiniz, veya requirements.txt do
 ## :checkered_flag: Starting ##
 
 ```bash
-$ git clone https://github.com/metin02oktay/FAST_API_HELLO_WORLD
+git clone https://github.com/metin02oktay/FAST_API_HELLO_WORLD
 
-$ cd FAST_API_HELLO_WORLD
+cd FAST_API_HELLO_WORLD
 
-$ uv sync
+uv sync
 
-$ .venv\Scripts\activate
+.venv\Scripts\activate
 
-$ python main.py
+python main.py
 
 # <https://localhost:443>
 # <https://localhost:443/docs>
