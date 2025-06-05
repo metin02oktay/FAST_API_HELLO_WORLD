@@ -38,7 +38,7 @@ uv sync
 
 .venv\Scripts\activate
 
-python main.py
+.venv\Scripts\python main.py
 
 # <https://localhost:443>
 # <https://localhost:443/docs>
