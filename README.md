@@ -26,7 +26,7 @@ Python ile FastApi frameworku ile SSL sertifikası kullanarak giriş seviyede bi
 
 ## :white_check_mark: Requirements ##
 
-uv ile kolayca kurulumları yapabilirsiniz.
+uv sync komutu ile kolayca kurulumları yapabilirsiniz, veya requirements.txt dosyasından kurulumu yapabilirsiniz.
 
 ## :checkered_flag: Starting ##
 
