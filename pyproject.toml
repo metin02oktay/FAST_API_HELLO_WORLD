@@ -1,0 +1,11 @@
+[project]
+name = "fast-api-hello-world"
+version = "0.1.0"
+description = "FastApi framworkü için giriş seviyinde bir çalışma."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cryptography>=45.0.3",
+    "fastapi[standard]>=0.115.12",
+    "uvicorn[standard]>=0.34.3",
+]
