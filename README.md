@@ -27,24 +27,22 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, uv ile kolayca skurulumları yapabilirsiniz.
+uv ile kolayca skurulumları yapabilirsiniz.
 
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/metin02oktay/FastApi_giris
+$ git clone https://github.com/metin02oktay/FAST_API_HELLO_WORLD
 
-# Access
-$ cd fast_api_hello_world
+$ cd FAST_API_HELLO_WORLD
 
-# Install dependencies
-$ yarn
+$ uv sync
 
-# Run the project
-$ yarn start
+$ .venv\Scripts\activate
 
-# The server will initialize in the <http://localhost:3000>
+$ python main.py
+
+# <https://localhost:443>
 ```
 
 ## :memo: License ##
@@ -52,7 +50,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/metin02oktay" target="_blank">metin02oktay</a>
 
 &#xa0;
 
