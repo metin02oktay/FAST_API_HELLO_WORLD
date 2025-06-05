@@ -9,4 +9,4 @@ def read_root():
     return {"Hello": "World"}   
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=84443, ssl_certfile="certs/cert.pem", ssl_keyfile="certs/key.pem")
+    uvicorn.run("main:app", host="127.0.0.1", port=443, ssl_certfile="certs/cert.pem", ssl_keyfile="certs/key.pem")
